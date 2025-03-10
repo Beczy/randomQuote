@@ -1,0 +1,45 @@
+body {
+  background-image: url(images/quote4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+#quote-button {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 8px 8px;
+  background-color: transparent;
+  color: rgb(117, 246, 255);
+  font-weight: bold;
+}
+
+#quote {
+  margin-top: 250px;
+  color: aqua;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.copy-div {
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.copy-button {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 8px 8px;
+  background-color: transparent;
+  color: violet;
+  font-weight: bold;
+}
